@@ -263,7 +263,7 @@ body {
     }
     .text {
         font-size: 1.2rem;
-
+        margin-bottom: 30px;
     }
     .img img {
         height: 260px;
