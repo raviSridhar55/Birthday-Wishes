@@ -259,6 +259,7 @@ body {
 @media(max-width: 600px) {
     body {
         background-size: cover;
+        background-repeat:repeat-y;
     }
     .text {
         font-size: 1.2rem;
